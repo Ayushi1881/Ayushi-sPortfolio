@@ -6,7 +6,7 @@ a, a:hover, a:focus, a:active {
 
 .about {
   height: 30vw;
-  width: 99%;
+  width: 120vw;
   align-self: center;
   background-color: #FFF5EB;
   box-shadow: 0.5vw 0.5vw #B8B5FF;
@@ -28,6 +28,7 @@ a, a:hover, a:focus, a:active {
 
 body {
   margin: 0;
+
 }
 
 .break {
@@ -42,6 +43,7 @@ body {
   background: rgb(63, 94, 251);
   background: linear-gradient(90deg, rgba(63, 94, 251, 1) 0%, rgba(249, 4, 5, 1) 100%);
   color: powderblue;
+  width: 120vw;
   text-align: center;
   position: relative;
   bottom: 0;
@@ -77,7 +79,6 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  overflow-x: hidden;
   margin: 0;
 }
 
@@ -150,7 +151,7 @@ p {
   box-shadow: 0.5vw 0.5vw #B8B5FF;
   float: left;
   height: 35vw;
-  width: 99%;
+  width: 120vw;
   position: relative;
   left: 1%;
 }
@@ -175,7 +176,7 @@ span {
 
 .top-container {
   font-family: 'Merriweather', serif;
-  height: 100vw;
+  height: 120vw;
   text-align: center;
 }
 
