@@ -1,9 +1,5 @@
 html {
-  background: url("https://media4.giphy.com/media/Pp9W9tuVF5NwQ/200w.webp?cid=ecf05e47c5tvtldk23k5uihxj5dvrudsbf85f163nco2dklv&rid=200w.webp&ct=g") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-color: black;
   margin: 0;
 }
 h1{
